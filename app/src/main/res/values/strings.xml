@@ -1,0 +1,21 @@
+<resources>
+    <string name="key">key</string>
+
+    <string name="app_name">ServerLogin</string>
+    <string name="registration_screen">"Welcome to the registration screen.\n Please enter a username and password."</string>
+    <string name="login_screen">"Welcome to the login screen.\n Please enter a username and password."</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="user_and_pass_fail">"Please enter a user name and password"</string>
+    <string name="credential_fail">"Credentials dont match"</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="register">Register</string>
+    <string name="login">"Login"</string>
+</resources>
